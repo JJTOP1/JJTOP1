@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m currently learning Azure, Oracle, and the Risk Management Framework (RMF).
+I’m currently learning Azure, AWS, and the Risk Management Framework (RMF).
 I am a Management Information Systems graduate who bridges the gap between high-level business strategy and hands-on technical execution. My approach to information technology is rooted in operational efficiency and a commitment to seamless user experiences. With a background that combines academic theory and real-world IT support, I specialize in maintaining reliable Windows environments and refining the processes that keep them running.
 
 Email: Jamescjohnson26@gmail.com  
