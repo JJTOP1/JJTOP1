@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm James Johnson</h1>
-<h3 align="center">Customer-Centric MIS Professional | Automating Workflows & Fortifying IT Infrastructure</h3>
+# 💫 About Me:
+I’m currently learning Azure, Oracle and Risk Management Framework.<br>I am a Management Information Systems graduate who bridges the gap between high level business strategy and hands on technical execution. My approach to information technology is rooted in operational efficiency and a commitment to seamless user experiences. With a background that combines academic theory and real world IT support, I specialize in maintaining reliable Windows environments and refining the processes that keep them running.<br>My email is Jamescjohnson26@gmail.com<br>Fun fact I love anime, art and jazz music.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjtop1&label=Profile%20views&color=0e75b6&style=flat" alt="jjtop1" /> </p>
 
-- 🌱 I’m currently learning **Azure, Oracle and Risk Management Framework**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/james-johnson-85a3bb90) 
 
-- 💬 Ask me about **I’m a Management Information Systems graduate with a solid foundation in customer service and hands-on IT support. I’ve deployed and maintained Windows workstations, troubleshooted network connectivity issues, and streamlined operations through process improvements. Using basic PowerShell and batch scripts, I’ve automated routine tasks—reducing manual effort and cutting ticket resolution times.**
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JJTOP1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JJTOP1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJTOP1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📫 How to reach me **Jamescjohnson26@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JJTOP1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- ⚡ Fun fact **I love anime, art and jazz music.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JJTOP1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/james-johnson-85a3bb90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-johnson" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=JJTOP1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjtop1&show_icons=true&locale=en" alt="jjtop1" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
